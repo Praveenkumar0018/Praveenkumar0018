@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Praveenkumar0018
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning back end development
-
+Name       : Praveen Kumar S
+Degree     : Computer Science and Business System
+Tech Stack : .Net with c #
+Role       : Junior Software Engineer (Intern)
 
